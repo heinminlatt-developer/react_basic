@@ -1,0 +1,365 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Otto", "last": "Hanninen" },
+      "location": {
+        "street": { "number": 8815, "name": "Myllypuronkatu" },
+        "city": "Äänekoski",
+        "state": "Finland Proper",
+        "country": "Finland",
+        "postcode": 57432,
+        "coordinates": { "latitude": "-25.1299", "longitude": "-103.2653" },
+        "timezone": {
+          "offset": "-6:00",
+          "description": "Central Time (US & Canada), Mexico City"
+        }
+      },
+      "email": "otto.hanninen@example.com",
+      "login": {
+        "uuid": "b13e7f28-598d-498a-86d6-dc43222f2905",
+        "username": "ticklishgorilla867",
+        "password": "guest",
+        "salt": "tMF1LFOI",
+        "md5": "374e796303ffd50d8ecbe8653b3556c7",
+        "sha1": "54d7405fb6665f8386df0f1f9d1fb0cdc13981ac",
+        "sha256": "b9685b070dafda0a925f894d9d6b1576df10822c89f6f5b7fc8a5f5595f1a3ae"
+      },
+      "dob": { "date": "1989-05-13T15:54:15.216Z", "age": 35 },
+      "registered": { "date": "2008-03-12T15:42:25.384Z", "age": 16 },
+      "phone": "03-119-150",
+      "cell": "043-589-71-11",
+      "id": { "name": "HETU", "value": "NaNNA733undefined" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/19.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+      },
+      "nat": "FI"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Tomothy", "last": "Sims" },
+      "location": {
+        "street": { "number": 4948, "name": "Homestead Rd" },
+        "city": "Fort Worth",
+        "state": "West Virginia",
+        "country": "United States",
+        "postcode": 15391,
+        "coordinates": { "latitude": "15.6552", "longitude": "135.8378" },
+        "timezone": { "offset": "+3:30", "description": "Tehran" }
+      },
+      "email": "tomothy.sims@example.com",
+      "login": {
+        "uuid": "fb111b54-f0ed-4976-9f0b-86ed6dcd8140",
+        "username": "orangebird374",
+        "password": "snapper",
+        "salt": "SHx52xYX",
+        "md5": "00b73f29fa0304837bc6853f6bf3731b",
+        "sha1": "1eccc799b79a9f0a223163bdcdfeb0bda5d60e75",
+        "sha256": "73d4c7c18461861e901369e9d36fa9e479f7b5c769ce2f2f9a744f6b730580b4"
+      },
+      "dob": { "date": "1945-11-23T18:26:33.193Z", "age": 78 },
+      "registered": { "date": "2011-05-18T04:11:14.660Z", "age": 13 },
+      "phone": "(853) 400-8875",
+      "cell": "(354) 481-2126",
+      "id": { "name": "SSN", "value": "423-79-3630" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/96.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Loane", "last": "Vincent" },
+      "location": {
+        "street": { "number": 6788, "name": "Rue Dugas-Montbel" },
+        "city": "Caen",
+        "state": "Haute-Marne",
+        "country": "France",
+        "postcode": 12255,
+        "coordinates": { "latitude": "-8.2908", "longitude": "166.2821" },
+        "timezone": { "offset": "-2:00", "description": "Mid-Atlantic" }
+      },
+      "email": "loane.vincent@example.com",
+      "login": {
+        "uuid": "d84501de-c838-475e-a323-b4b411d68574",
+        "username": "heavywolf413",
+        "password": "consumer",
+        "salt": "M1lSVhJt",
+        "md5": "f091b5be50d77a27bd7ea7ca85fddaf0",
+        "sha1": "8f1d8be0a0556778849457fd137da71f0cd3fe80",
+        "sha256": "75340c2af9d9644ba050712ee68a4416b77fedc9acf7f0f5a67e725dc7201091"
+      },
+      "dob": { "date": "1964-06-24T11:30:02.982Z", "age": 59 },
+      "registered": { "date": "2014-10-06T20:20:13.642Z", "age": 9 },
+      "phone": "02-22-75-45-75",
+      "cell": "06-57-69-46-01",
+      "id": { "name": "INSEE", "value": "2640590617764 69" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/96.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Elin", "last": "Granlund" },
+      "location": {
+        "street": { "number": 4169, "name": "Sofies gate" },
+        "city": "Ål",
+        "state": "Hedmark",
+        "country": "Norway",
+        "postcode": "3154",
+        "coordinates": { "latitude": "-33.0605", "longitude": "101.4583" },
+        "timezone": {
+          "offset": "-6:00",
+          "description": "Central Time (US & Canada), Mexico City"
+        }
+      },
+      "email": "elin.granlund@example.com",
+      "login": {
+        "uuid": "f5a506e9-fc5a-4d36-89d2-bc29447f559f",
+        "username": "ticklishfish916",
+        "password": "cutter",
+        "salt": "CIacMF9T",
+        "md5": "d5030e24836741d33b29e1914dac59a9",
+        "sha1": "7a53db34eeb95b17177f66b9821e7dc33ead0568",
+        "sha256": "0d023dba428c3d655293da42d930aa8d3c58ab8efe68e1628e5f7c5ae3103d4c"
+      },
+      "dob": { "date": "1999-08-22T03:58:17.008Z", "age": 24 },
+      "registered": { "date": "2002-04-02T00:47:12.747Z", "age": 22 },
+      "phone": "37639309",
+      "cell": "90499845",
+      "id": { "name": "FN", "value": "22089925499" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/82.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Pahal", "last": "Manjunath" },
+      "location": {
+        "street": { "number": 7475, "name": "Chaman Ganj" },
+        "city": "Tadepalligudem",
+        "state": "Chhattisgarh",
+        "country": "India",
+        "postcode": 37993,
+        "coordinates": { "latitude": "-34.0975", "longitude": "-93.3542" },
+        "timezone": { "offset": "+9:30", "description": "Adelaide, Darwin" }
+      },
+      "email": "pahal.manjunath@example.com",
+      "login": {
+        "uuid": "4b879c89-b9f7-4b02-b192-cc97bb34d36c",
+        "username": "silverladybug835",
+        "password": "seinfeld",
+        "salt": "wGewBgOi",
+        "md5": "0e0f202ba59a8c9e61bf467418165f5b",
+        "sha1": "bc88beca4ff9172fd20fcd6f14854d313f93b15a",
+        "sha256": "3534f6512997c2017870fdaa89bb9a4cf4b067d9eeb243a890dcfbb9cc2226ba"
+      },
+      "dob": { "date": "1952-09-30T21:53:17.156Z", "age": 71 },
+      "registered": { "date": "2008-07-23T15:49:23.384Z", "age": 15 },
+      "phone": "7577601527",
+      "cell": "8532565417",
+      "id": { "name": "UIDAI", "value": "984222161592" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/62.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+      },
+      "nat": "IN"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Umut", "last": "Eliçin" },
+      "location": {
+        "street": { "number": 9042, "name": "Fatih Sultan Mehmet Cd" },
+        "city": "Kastamonu",
+        "state": "Kocaeli",
+        "country": "Turkey",
+        "postcode": 52314,
+        "coordinates": { "latitude": "86.1107", "longitude": "-67.2438" },
+        "timezone": { "offset": "+9:30", "description": "Adelaide, Darwin" }
+      },
+      "email": "umut.elicin@example.com",
+      "login": {
+        "uuid": "d780098f-b4d4-4ef0-93ca-4f51f806efc7",
+        "username": "orangekoala781",
+        "password": "vince",
+        "salt": "RiMVNhpS",
+        "md5": "62a315f422f0210d0c12d81048a631ca",
+        "sha1": "dc5b65d7ec4bb06d5f4ac23fb0bd0dc7e6a9b0ae",
+        "sha256": "e38c17f205962b0235d2fce52fdc0a7923ef944f1259608594d07709e11f9c1e"
+      },
+      "dob": { "date": "1975-05-23T22:54:06.198Z", "age": 49 },
+      "registered": { "date": "2019-12-24T21:01:55.382Z", "age": 4 },
+      "phone": "(460)-807-6571",
+      "cell": "(724)-230-3706",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/66.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+      },
+      "nat": "TR"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Demid", "last": "Gorzhiy" },
+      "location": {
+        "street": { "number": 8689, "name": "Provulok Rayisi Bukinoyi" },
+        "city": "Novodruzhesk",
+        "state": "Ivano-Frankivska",
+        "country": "Ukraine",
+        "postcode": 28236,
+        "coordinates": { "latitude": "14.6120", "longitude": "-4.2602" },
+        "timezone": {
+          "offset": "+5:30",
+          "description": "Bombay, Calcutta, Madras, New Delhi"
+        }
+      },
+      "email": "demid.gorzhiy@example.com",
+      "login": {
+        "uuid": "584a7eb2-e245-4815-b1a2-cc7d25958cc9",
+        "username": "orangezebra797",
+        "password": "spanky",
+        "salt": "8SPhmWel",
+        "md5": "6d347f0bb43ecf65e8cf9c1e4de0e2e6",
+        "sha1": "acea5ef757880219050ca4c419fc5c2a3171723b",
+        "sha256": "04884c518f19cfbd68244274a0569c1cdc8970f07d1c22e1e17a430d34f3caaf"
+      },
+      "dob": { "date": "1964-03-22T02:09:01.879Z", "age": 60 },
+      "registered": { "date": "2008-05-17T21:31:06.035Z", "age": 16 },
+      "phone": "(067) K00-9841",
+      "cell": "(068) T59-0431",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/89.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+      },
+      "nat": "UA"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Lucien", "last": "Fontai" },
+      "location": {
+        "street": { "number": 7631, "name": "Rue Desaix" },
+        "city": "Brest",
+        "state": "Drôme",
+        "country": "France",
+        "postcode": 30341,
+        "coordinates": { "latitude": "-80.1431", "longitude": "-140.3043" },
+        "timezone": { "offset": "+5:45", "description": "Kathmandu" }
+      },
+      "email": "lucien.fontai@example.com",
+      "login": {
+        "uuid": "83c98538-a862-4bed-b433-2a29f3e0e5ee",
+        "username": "sadfish299",
+        "password": "33333333",
+        "salt": "Ahq4WSiC",
+        "md5": "f02570bb0f2be9701eee69ac05ed03a7",
+        "sha1": "9c246f90671a96c52cd912bf12e55af5a2613caa",
+        "sha256": "90e5c7819b271c0a59b442d058257f358cd4fe1c0d3122d0518e22d0a5017877"
+      },
+      "dob": { "date": "1947-03-30T18:03:29.261Z", "age": 77 },
+      "registered": { "date": "2008-01-08T01:39:22.632Z", "age": 16 },
+      "phone": "01-85-69-42-75",
+      "cell": "06-55-22-84-01",
+      "id": { "name": "INSEE", "value": "1470247350898 47" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/98.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Jesus", "last": "Kuhn" },
+      "location": {
+        "street": { "number": 9779, "name": "Fairview Road" },
+        "city": "Derby",
+        "state": "Central",
+        "country": "United Kingdom",
+        "postcode": "F83 6BP",
+        "coordinates": { "latitude": "45.0206", "longitude": "-16.7610" },
+        "timezone": {
+          "offset": "-1:00",
+          "description": "Azores, Cape Verde Islands"
+        }
+      },
+      "email": "jesus.kuhn@example.com",
+      "login": {
+        "uuid": "87b29ca1-3bf8-46c8-aa79-1d0ca8b2b474",
+        "username": "beautifultiger758",
+        "password": "chaos1",
+        "salt": "JokbZFDZ",
+        "md5": "f61bb61f44cc85b0ddfd31c34f0759df",
+        "sha1": "d676209456b37eab8577f072707c95aa16f08619",
+        "sha256": "a861ea9d77a29e950f19d801dceb4a418db73027a095f4c766e540f23a910649"
+      },
+      "dob": { "date": "1947-03-03T21:42:09.723Z", "age": 77 },
+      "registered": { "date": "2015-12-17T12:01:22.873Z", "age": 8 },
+      "phone": "017683 57795",
+      "cell": "07959 987340",
+      "id": { "name": "NINO", "value": "WR 98 32 08 C" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/0.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Craig", "last": "Mason" },
+      "location": {
+        "street": { "number": 1321, "name": "Manor Road" },
+        "city": "Naas",
+        "state": "Longford",
+        "country": "Ireland",
+        "postcode": 25615,
+        "coordinates": { "latitude": "-32.2721", "longitude": "-156.6658" },
+        "timezone": {
+          "offset": "-7:00",
+          "description": "Mountain Time (US & Canada)"
+        }
+      },
+      "email": "craig.mason@example.com",
+      "login": {
+        "uuid": "5b1ae353-bd19-453f-ba13-c13d8fc54e36",
+        "username": "silverostrich766",
+        "password": "darkange",
+        "salt": "qAGiaSH9",
+        "md5": "c96dea5c491f235364869f15368c16bb",
+        "sha1": "621df5819a75b65ae16c2844a8a8ff47d2411584",
+        "sha256": "ce2b4d0df7f130b4803c9644166f06953980212cd0a2ddd334a216b9586f236e"
+      },
+      "dob": { "date": "1953-04-16T01:44:25.376Z", "age": 71 },
+      "registered": { "date": "2015-05-20T19:00:31.222Z", "age": 9 },
+      "phone": "011-079-5627",
+      "cell": "081-752-0979",
+      "id": { "name": "PPS", "value": "4331513T" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/54.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+      },
+      "nat": "IE"
+    }
+  ],
+  "info": {
+    "seed": "72ebe253c31aa130",
+    "results": 10,
+    "page": 1,
+    "version": "1.4"
+  }
+}
