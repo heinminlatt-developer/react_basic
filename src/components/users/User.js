@@ -1,5 +1,6 @@
 import React from "react";
 
+
 function User({ data, remove }) {
   const handleRemove = () => {
     remove(data.uuid);
